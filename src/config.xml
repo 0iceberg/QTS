@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+    <database>
+        <databasename></databasename>
+        <ip>127.0.0.1</ip>
+        <username>root</username>
+        <password>1995</password>
+    </database>
+</config>
